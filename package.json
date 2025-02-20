@@ -21,7 +21,7 @@
 		"@babel/preset-env": "^7.26.0",
 		"@babel/preset-react": "^7.26.3",
 		"@react-three/drei": "^9.120.4",
-		"@react-three/fiber": "9.0.0-rc.5",
+		"@react-three/fiber": "9.0.4",
 		"astro": "^5.0.0",
 		"babel-jest": "^29.7.0",
 		"devicons-react": "^1.4.0",
